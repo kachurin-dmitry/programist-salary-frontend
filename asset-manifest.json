@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/programist-salary-frontend/static/js/main.824710b5.js",
+    "static/js/787.b1e4e3a0.chunk.js": "/programist-salary-frontend/static/js/787.b1e4e3a0.chunk.js",
+    "index.html": "/programist-salary-frontend/index.html",
+    "main.824710b5.js.map": "/programist-salary-frontend/static/js/main.824710b5.js.map",
+    "787.b1e4e3a0.chunk.js.map": "/programist-salary-frontend/static/js/787.b1e4e3a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.824710b5.js"
+  ]
+}
