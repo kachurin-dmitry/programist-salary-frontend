@@ -45,7 +45,7 @@ export default function App() {
         needsCost += wasteForYears
 
         let requiredAccumulations = ((expectedIncomeOnPension * 1000) / expectedPercentForMoney) * 100 * 12;
-        setAccumulation(requiredAccumulations)
+        setAccumulation(Number((requiredAccumulations).toFixed(0)))
 
         let requiredSalaryPerMonth = ((needsCost + requiredAccumulations) / expectedYearsForPension) / 12;
         let roundedResult = Number((requiredSalaryPerMonth / 1000).toFixed(0));
