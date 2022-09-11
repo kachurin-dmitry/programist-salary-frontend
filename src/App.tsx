@@ -80,7 +80,7 @@ export default function App() {
                                     {audiNeeded ? ' [Audi Q3 Sportback]' : ''}<br/>
                                     {apartmentNeeded ? ' [3-к квартира в Центре Воронежа' : ''}
                                     {renovationNeeded ? ' + ремонт]' : (apartmentNeeded ? ']' : '')}<br/>
-                                    Накопления - {accumulation} рублей.
+                                    Накопления: {accumulation} рублей.
                                 </div>
                                 <Group position="left" mt="md">
                                     <Button onClick={() => handleCalculateAgainClickFun()} type="submit">Сбросить все!</Button>
