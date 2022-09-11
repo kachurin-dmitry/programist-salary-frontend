@@ -1,6 +1,6 @@
 {
   "name": "mantine-cra-template",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "homepage": "https://kachurin-dmitry.github.io/programist-salary-frontend",
   "private": true,
   "dependencies": {
@@ -8,6 +8,7 @@
     "@mantine/core": "5.1.0",
     "@mantine/form": "^5.2.4",
     "@mantine/hooks": "5.1.0",
+    "@tabler/icons": "^1.95.1",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^14.3.0",
